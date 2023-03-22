@@ -4,6 +4,7 @@ class sum
     {
         int a=5;
         int b=7;
-        System.out.println("Sum of a & b is :"+(a+b));
+        int c=9;
+        System.out.println("Sum of a & b &c is :"+(a+b+c));
     }
 }
